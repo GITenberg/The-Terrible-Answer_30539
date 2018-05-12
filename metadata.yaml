@@ -1,0 +1,27 @@
+_repo: The-Terrible-Answer_30539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Arthur G.
+    gutenberg_agent_id: '34662'
+    url: http://www.gutenberg.org/2009/agents/34662
+description: ''
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Martians -- Fiction'
+title: The Terrible Answer
+url: http://www.gutenberg.org/ebooks/30539
