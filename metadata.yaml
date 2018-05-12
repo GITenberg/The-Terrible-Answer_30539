@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34662'
     url: http://www.gutenberg.org/2009/agents/34662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30539#The-Terrible-Answer
 gutenberg_issued: '2009-11-24'
 gutenberg_type: Text
 identifiers:
